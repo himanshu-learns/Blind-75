@@ -1,3 +1,3 @@
-#Arrays
+# Arrays
 
-This folder contains all Array problems from Blind 75.
+## This folder contains all Array problems from Blind 75.
