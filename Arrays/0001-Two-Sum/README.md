@@ -5,10 +5,10 @@ Easy
 
 ## Topics
 - Arrays
-- Hashing
+- Hashmap
 
 ## Pattern
-- Hash Map
+- Lookup while traversing 
 
 ## Status
 ✅ Solved
