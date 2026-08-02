@@ -1,7 +1,7 @@
 # 0001. Two Sum
 
 ## Difficulty
-Easy
+🟢 Easy
 
 ## Topics
 - Arrays
