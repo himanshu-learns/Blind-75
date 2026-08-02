@@ -6,9 +6,9 @@ Master Data Structures & Algorithms by solving the Blind 75 while understanding 
 ## 📊 Overall Progress
 
 - **Total:** 2 / 75
-- 🟢 Easy: 2 / 20
-- 🟡 Medium: 0 / 40
-- 🔴 Hard: 0 / 15
+- 🟢 Easy: 2 / 19
+- 🟡 Medium: 0 / 49
+- 🔴 Hard: 0 / 7
 
 
 ## 📚 Progress by Topic
